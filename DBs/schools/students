@@ -1,0 +1,9 @@
+~~~~~~~~~~~~~~~~~ ~> students Structure <~ ~~~~~~~~~~~
+Number Of Columns ~> : 3
+id:Number
+name:String
+email:String
+1
+id:name:email
+-----------------------------------------
+1:os:os@gmail.com

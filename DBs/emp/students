@@ -1,0 +1,11 @@
+~~~~~~~~~~~~~~~~~ students Structure ~~~~~~~~~~~~
+Number Of Columns : 2
+id:Number
+name:String
+1
+id:name
+-----------------------------------------
+1:youssief
+2:ahmed
+3:islam
+4:sad
